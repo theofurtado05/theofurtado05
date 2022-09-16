@@ -26,7 +26,8 @@ Atualmente curso Analise e Desenvolvimento de Sistemas n Ibmec. Atualmente traba
 
 
 <hr>
-### Entre em contato!
+
+## Entre em contato!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theofurtadomauricio/)
 ![EMAIL](https://img.shields.io/badge/theofurtado05@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)
