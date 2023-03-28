@@ -2,7 +2,7 @@
 Atualmente curso Analise e Desenvolvimento de Sistemas n Ibmec. Atualmente trabalho como freelancer, desenvolvendo sites e landing pages.
   
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theo_furtado05)
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theo_furtado)
+[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheoFBuilding)
 
 <hr>
 
