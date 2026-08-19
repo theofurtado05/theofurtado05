@@ -1,12 +1,15 @@
-## Hey! Im Théo Furtado!✌️
-I currently work as a Fullstack developer at Reeve.
-  
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theo_furtado05)
-[![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TheoFBuilding)
+# Hey! I'm Théo Furtado ✌️
 
-<hr>
-  
-## Contact me!
+Full-stack developer working across the whole stack with **React, Next.js, Node, NestJS, and Angular** — from front-end to API, database, and deployment.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theofurtadomauricio/)
-![EMAIL](https://img.shields.io/badge/theofurtado05@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)
+I build web products companies actually rely on. A few of them:
+
+- **VagaAutomática** — an AI tool that auto-applies to jobs for users. 5,000+ weekly active users, 100+ applications/day.
+- **SendWork** — an SMS platform sending 10M+ messages per week at scale.
+- Internal systems running in production, used daily by real teams.
+
+Focused on clean, maintainable code and shipping things that work.
+
+### Contact
+- 📫 theofurtado05@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/theofurtadomauricio)
